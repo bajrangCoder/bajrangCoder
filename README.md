@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bajrangcoders@gmail.com**
 
-- ⚡ Fun fact **I am a school student.**
+- ⚡ Fun fact **I am a school student and I code on Android Phone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
