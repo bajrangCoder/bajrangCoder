@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **bajrangcoders@gmail.com**
 
-- ⚡ Fun fact **I am a school student and I code on Android Phone.**
+- ⚡ Fun fact **I am a high school student and I code on Android Phone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/bajrangcoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bajrangcoders" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@BajrangCoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bajrangcoders" height="30" width="40" /></a>
 <a href="https://discord.gg/BajrangCoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BajrangCoders" height="30" width="40" /></a>
 </p>
 
