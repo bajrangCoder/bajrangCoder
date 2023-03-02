@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bajrangcoder" alt="bajrangcoder" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust & some frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bajrangCoder](https://github.com/bajrangCoder)
 
 - 📫 How to reach me **bajrangcoders@gmail.com**
 
-- ⚡ Fun fact **I am a high school student and I code on Android Phone.**
+- ⚡ Fun fact **I am a student.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
