@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/bajrangcoder" target="blank"><img src="https://img.shields.io/twitter/follow/bajrangcoder?logo=twitter&style=for-the-badge" alt="bajrangcoder" /></a> </p>
 
-- 🌱 I’m currently learning **Rust and some frameworks**
+- 🌱 I’m currently learning **Typescript and Svelte**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bajrangCoder?tab=repositories](https://github.com/bajrangCoder?tab=repositories)
-
-- 💬 Ask me about **Python, Javascript**
+- 👨‍💻 All of my projects are available at [https://github.com/bajrangCoder?tab=repositories](https://github.com/bajrangCoder?tab=repositories
 
 - 📫 How to reach me **bajrangcoders@gmail.com**
 
 - 📄 Know about my experiences [https://bajrangcoder.tech/](https://bajrangcoder.tech/)
 
-- ⚡ Fun fact **I am a school student**
+- ⚡ Fun fact **I am a 16 year old student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
