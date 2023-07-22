@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript and Svelte**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bajrangCoder?tab=repositories](https://github.com/bajrangCoder?tab=repositories
+- 👨‍💻 All of my projects are available at [https://github.com/bajrangCoder?tab=repositories](https://github.com/bajrangCoder?tab=repositories)
 
 - 📫 How to reach me **bajrangcoders@gmail.com**
 
