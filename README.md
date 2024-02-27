@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bajrangcoder&theme=radical&hide_border=true" alt="bajrangcoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bajrangcoder&show_icons=true&locale=en&theme=radical&hide_border=true&hide_progress=true" alt="bajrangcoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bajrangcoder&show_icons=true&locale=en&theme=radical&hide_border=true&hide_progress=true&size_weight=0.5&count_weight=0.5" alt="bajrangcoder" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=bajrangCoder&theme=radical&hide_border=true" alt="bajrangcoder" /></p>
 
