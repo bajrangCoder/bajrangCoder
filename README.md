@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bajrangcoders@gmail.com**
 
-- 📄 Know about my experiences [https://bajrangcoder.tech/](https://bajrangcoder.tech/)(currently down)
+- 📄 Know about my experiences [https://bajrangcoder.dev/](https://bajrangcoder.vercel.app/)
 
 - ⚡ Fun fact **I am a 17 year old student**
 
