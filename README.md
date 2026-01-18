@@ -32,12 +32,10 @@
 <table>
   <tr>
 <td><p><img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=bajrangCoder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="bajrangcoder" /></p></td>
-  </tr><tr>
-<td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bajrangcoder&show_icons=true&locale=en&theme=radical&hide_border=true&hide_progress=true&size_weight=0.5&count_weight=0.5" alt="bajrangcoder" /></p></td>
-</tr>
+  </tr>
 <tr>
   <td>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bajrangCoder&theme=radical&hide_border=true" alt="bajrangcoder" /></p>
+    <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=bajrangCoder&theme=radical&hide_border=true" alt="bajrangcoder" /></p>
   </td>
 </tr>
 </table>
