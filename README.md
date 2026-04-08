@@ -35,7 +35,7 @@
   </tr>
 <tr>
   <td>
-    <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=bajrangCoder&theme=radical&hide_border=true" alt="bajrangcoder" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bajrangCoder&theme=radical&hide_border=true" alt="bajrangcoder" /></p>
   </td>
 </tr>
 </table>
