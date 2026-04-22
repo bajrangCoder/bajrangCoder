@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raunak</h1>
 <h3 align="center">A software engineer from India</h3>
 
-<p align="left"> <img src="https://trophy.benkou.dev/?username=bajrangcoder&theme=dracula&style=flat" alt="bajrangcoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bajrangcoder&label=Profile%20views&color=141321&style=flat" alt="bajrangcoder" /> </p>
 
 <h2 align="left">🏆 Github Profile Trophy</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bajrangcoder&theme=radical&no-frame=true" alt="bajrangcoder" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=bajrangcoder&theme=radical&no-frame=true" alt="bajrangcoder" /></a> </p>
 
 <details>
 <summary><h2>📬 Connect with me:</h2></summary>
