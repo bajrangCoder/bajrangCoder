@@ -10,6 +10,7 @@ I maintain [**Acode**](https://github.com/Acode-Foundation/Acode), an open-sourc
 
 ### Some things I've built
 
+- [**Shellular**](https://shellular.dev): run your coding agents, terminals, editor and localhost on your own machine, from your phone. I'm one of the three people building it
 - [**Acode AI Agent**](https://github.com/Acode-Foundation/acode-ai-agent): an AI coding agent that runs inside Acode
 - [**canvas-view**](https://github.com/Acode-Foundation/canvas-view): a GPU-rendered (WebGL2 / WebGPU) editor view for CodeMirror 6, for smooth scrolling and typing on Android
 - [**Setu**](https://github.com/bajrangCoder/setu): a minimal API client in Rust with GPUI
