@@ -2,7 +2,7 @@
 
 Software engineer. I mostly build developer tools: code editors, language tooling and AI agents. Lately I've been writing a lot of Rust.
 
-I maintain [**Acode**](https://github.com/Acode-Foundation/Acode), a code editor for Android with 7.7k+ stars. Most of what I build around it lives under [Acode-Foundation](https://github.com/Acode-Foundation).
+I maintain [**Acode**](https://github.com/Acode-Foundation/Acode), an open-source code editor for Android, and build much of the tooling around it at [Acode-Foundation](https://github.com/Acode-Foundation).
 
 [Website](https://bajrangcoder.dev) · [X / Twitter](https://x.com/bajrangCoder) · [LinkedIn](https://linkedin.com/in/raunak-raj-603196261) · [YouTube](https://www.youtube.com/@bajrangcoder) · [Email](mailto:bajrangcoders@gmail.com)
 
@@ -14,8 +14,7 @@ I maintain [**Acode**](https://github.com/Acode-Foundation/Acode), a code editor
 - [**canvas-view**](https://github.com/Acode-Foundation/canvas-view): a GPU-rendered (WebGL2 / WebGPU) editor view for CodeMirror 6, for smooth scrolling and typing on Android
 - [**Setu**](https://github.com/bajrangCoder/setu): a minimal API client in Rust with GPUI
 - [**AcodeX**](https://github.com/bajrangCoder/acode-plugin-acodex): a terminal for Acode, backed by a [Rust server](https://github.com/bajrangCoder/acodex_server)
-- **Acode plugin platform**: [docs](https://github.com/Acode-Foundation/acode-plugin-docs), [type definitions](https://github.com/Acode-Foundation/plugin-types), a [plugin security scanner](https://github.com/Acode-Foundation/plugin_scanner) in Rust, a [publish Action](https://github.com/Acode-Foundation/publish-plugin) and [extra language modes](https://github.com/Acode-Foundation/acode-additional-langmodes)
-- **Zed extensions**: [Laravel Blade](https://github.com/bajrangCoder/zed-laravel-blade), [SCSS](https://github.com/bajrangCoder/zed-scss), [Mojo](https://github.com/bajrangCoder/zed-mojo), [UnoCSS](https://github.com/bajrangCoder/zed-unocss), [INI](https://github.com/bajrangCoder/zed-ini), [MDX](https://github.com/bajrangCoder/zed-mdx), plus Tree-sitter grammars for [Sass](https://github.com/bajrangCoder/tree-sitter-sass) and [MDX](https://github.com/bajrangCoder/tree-sitter-mdx)
+- **- **Acode plugin ecosystem**: the [docs](https://github.com/Acode-Foundation/acode-plugin-docs) and [TypeScript types](https://github.com/Acode-Foundation/plugin-types) plugin authors build with, a [GitHub Action](https://github.com/Acode-Foundation/publish-plugin) to publish in one step, a Rust-based [security scanner](https://github.com/Acode-Foundation/plugin_scanner), and [extra language modes](https://github.com/Acode-Foundation/acode-additional-langmodes)*Zed extensions**: [Laravel Blade](https://github.com/bajrangCoder/zed-laravel-blade), [SCSS](https://github.com/bajrangCoder/zed-scss), [Mojo](https://github.com/bajrangCoder/zed-mojo), [UnoCSS](https://github.com/bajrangCoder/zed-unocss), [INI](https://github.com/bajrangCoder/zed-ini), [MDX](https://github.com/bajrangCoder/zed-mdx), plus Tree-sitter grammars for [Sass](https://github.com/bajrangCoder/tree-sitter-sass) and [MDX](https://github.com/bajrangCoder/tree-sitter-mdx)
 
 ### Toolbox
 
