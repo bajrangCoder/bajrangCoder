@@ -19,9 +19,13 @@ I maintain [**Acode**](https://github.com/Acode-Foundation/Acode), a code editor
 
 ### Toolbox
 
-- **Languages:** Rust · TypeScript · JavaScript · Python · C · Lua · Bash · HTML/CSS
-- **Frameworks & libraries:** GPUI · Tauri · React · Svelte · Preact · CodeMirror · Tree-sitter · Tailwind · Django · Flask
-- **Platforms & tooling:** macOS · Linux (Arch) · Android · WebAssembly · Node · Bun · Git · Zed · Vim
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,py,c,cpp,java,kotlin,bash,html,css&perline=11" alt="Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,svelte,tauri,tailwind,nodejs,bun,wasm,git,apple,linux&perline=11" alt="Frameworks and platforms" />
+</p>
+
+**Daily setup:** Zed · Helix · Ghostty · fish · AeroSpace · Pi · Codex · Claude Code · Zen · Helium · lazygit · ripgrep · fzf · zoxide
 
 ---
 
