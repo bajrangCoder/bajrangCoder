@@ -1,47 +1,43 @@
-<h1 align="center">Hi 👋, I'm Raunak</h1>
-<h3 align="center">A software engineer from India</h3>
+## Hey, I'm Raunak
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bajrangcoder&label=Profile%20views&color=141321&style=flat" alt="bajrangcoder" /> </p>
+I build developer tools: code editors, terminals, and language support.
 
-<h2 align="left">🏆 Github Profile Trophy</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=bajrangcoder&theme=radical&no-frame=true" alt="bajrangcoder" /></a> </p>
+Most of my time goes into [**Acode**](https://github.com/Acode-Foundation/Acode), a code editor for Android with 7.7k+ stars, where I'm a maintainer with 360+ merged PRs. I also write editor extensions for [Zed](https://zed.dev) and Tree-sitter grammars. I mostly work in Rust and TypeScript.
 
-<details>
-<summary><h2>📬 Connect with me:</h2></summary>
-<p align="left">
-<a href="https://twitter.com/bajrangcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bajrangcoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raunak-raj-603196261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak-raj-603196261" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bajrangcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bajrangcoder" height="30" width="40" /></a>
-<a href="https://t.me/bajrangCoder/" target="blank"><img align="center" src="https://telegram.org/img/favicon-32x32.png" height="30" width="40" /></a>
-<a href="mailto:bajrangcoders@gmail.com" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/g/24/gmail-icon.svg" height="30" width="40" /></a>
-</p>
-</details>
+[Website](https://bajrangcoder.dev) · [X / Twitter](https://x.com/bajrangCoder) · [LinkedIn](https://linkedin.com/in/raunak-raj-603196261) · [YouTube](https://www.youtube.com/@bajrangcoder) · [Email](mailto:bajrangcoders@gmail.com)
 
-<details>
-  <summary><h2>🧑🏻‍💻 Languages and Tools:</h2></summary>
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,js,bash,html,css,django,flask,git,linux,arch,md,nodejs,bun,react,sass,sqlite,svelte,tailwind,tauri,ts,pnpm,bevy,c,godot,lua,wasm,vim," />
-  </a>
-</p>
-</details>
+### Things I've built
 
-<h2 align="left">🎗️ Stats:</h2>
+| Project | What it is | Stack |
+|---|---|---|
+| [**AcodeX**](https://github.com/bajrangCoder/acode-plugin-acodex) | Full terminal emulator inside Acode | JS |
+| [**acodex_server**](https://github.com/bajrangCoder/acodex_server) | Backend that gives AcodeX a real shell | Rust |
+| [**Setu**](https://github.com/bajrangCoder/setu) | Fast, minimal desktop API client (WIP) | Rust · GPUI |
+| [**BootstrapIntelliSense**](https://github.com/bajrangCoder/BootstrapIntelliSense) · [**PathIntellisense**](https://github.com/bajrangCoder/PathIntellisense) | Autocompletion plugins for Acode | TS |
+| [**MarkdownCompiler**](https://github.com/bajrangCoder/MarkdownCompiler) | Live Markdown preview and styling for Acode | JS |
 
-<table>
-  <tr>
-<td><p><img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=bajrangCoder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="bajrangcoder" /></p></td>
-  </tr>
-<tr>
-  <td>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bajrangCoder&theme=radical&hide_border=true" alt="bajrangcoder" /></p>
-  </td>
-</tr>
-</table>
+### Zed extensions
 
-<h2 align="left">💰 Support:</h2>
+[Laravel Blade](https://github.com/bajrangCoder/zed-laravel-blade) ·
+[SCSS / Sass](https://github.com/bajrangCoder/zed-scss) ·
+[Mojo](https://github.com/bajrangCoder/zed-mojo) ·
+[UnoCSS](https://github.com/bajrangCoder/zed-unocss) ·
+[INI](https://github.com/bajrangCoder/zed-ini) ·
+[MDX](https://github.com/bajrangCoder/zed-mdx)
 
-<a href="https://www.buymeacoffee.com/bajrangCoder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+Grammars: [tree-sitter-sass](https://github.com/bajrangCoder/tree-sitter-sass) · [tree-sitter-mdx](https://github.com/bajrangCoder/tree-sitter-mdx)
 
-<a href='https://ko-fi.com/M4M3QPI7K' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+### Open source
+
+- **[Acode-Foundation](https://github.com/Acode-Foundation)**: maintainer of the editor, the [acode.app](https://github.com/Acode-Foundation/acode.app) plugin registry, and the plugin tooling
+- **[zed-industries/extensions](https://github.com/zed-industries/extensions)**: publishing and maintaining extensions in the Zed registry
+
+### Tools I use
+
+Rust · TypeScript · JavaScript · Tree-sitter · GPUI · Ace · Linux
+
+---
+
+If my plugins save you time, you can support me on [GitHub Sponsors](https://github.com/sponsors/bajrangCoder), [Buy Me a Coffee](https://www.buymeacoffee.com/bajrangCoder) or [Ko-fi](https://ko-fi.com/M4M3QPI7K).
